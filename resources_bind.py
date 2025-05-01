@@ -10,7 +10,7 @@ source_config = {
     "host": "",
     "port": 3306,
     "user": "root",
-    "password": "hukpon-9pappA-qyhqow",
+    "password": "",
     "charset": "utf8mb4",
     "database": "weibo"
 }
