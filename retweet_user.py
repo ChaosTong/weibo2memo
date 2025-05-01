@@ -57,7 +57,7 @@ for row in rows:
             screen_name,  # nick_name -> nickname
             "", # avatar_url
             "",  # bio -> description
-            "$2a$10$ShUdEdojUEt2Olrh4M0/MutSAw4K/u3wl/SM/5LZJ5zioVfazu1lq",
+            "",
             "USER",
             "NORMAL",
         ))
